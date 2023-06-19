@@ -1,2 +1,3 @@
 # cpp_optimization_diary_note
-https://github.com/facontidavide/CPP_Optimizations_Diary/ 的学习笔记以及自己后续实践过程中的总结，持续记录更新
+https://typhoon-blossom-01c.notion.site/CPP_Optimizations_Diary-05ecd807008740ccbc48455f7f4a0c89?pvs=4
+有空把notion笔记导出
